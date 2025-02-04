@@ -1,0 +1,60 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  color: rgba(255, 255, 255, 0.87) ; 
+  background-color: #242424 ;
+}
+a{
+  font-weight: 500;
+  text-decoration: inherit;
+  color: #646cff;
+
+}
+a:hover {
+  color: #535bf2;
+}
+
+.active {
+  text-shadow: 0 0 8px #646cff;
+}
+
+.image {
+  width: 100% ;
+  max-width: 500px;
+}
+
+.page {
+  background-color: #242424;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+
+  .card {
+    img{
+      max-height: 250px;
+      object-fit: cover;
+    }
+  }
+}
+
+.not-found {
+  max-height: 400px;
+  aspect-ratio: 1;
+}
+
+
+
+
+

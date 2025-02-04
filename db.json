@@ -1,0 +1,95 @@
+{
+    "books": [
+        {
+          "id": 1,
+          "title": "Zengin Baba Yoksul Baba",
+          "author": "Robert Kiyosaki",
+          "image": "https://picsum.photos/901",
+          "year": 1977,
+          "page": 400,
+          "description": "Finansal okuryazarlığı artırmaya yönelik bir kitap olup, yazarın hayatındaki iki farklı baba figürünü karşılaştırarak finansal bağımsızlık ve zenginlik yaratma konusundaki düşüncelerini aktarır. ",
+          "category": "Roman"
+        },
+        {
+          "id": 2,
+          "title": "Sapiens: İnsan Türünün Kısa Tarihi",
+          "author": "Yuval Noah Harari",
+          "image": "https://picsum.photos/902",
+          "year": 2011,
+          "page": 498,
+          "description": "Yuval Noah Harari'nin, Homo sapiens'in tarihini geniş bir perspektiften ele alan eseri, insanlık tarihinin başlangıcından günümüze kadar geçen evrimi inceler.",
+          "category": "Tarih"
+        },
+        {
+          "id": 3,
+          "title": "1984",
+          "author": "George Orwell",
+          "image": "https://picsum.photos/903",
+          "year": 1949,
+          "page": 328,
+          "description": "Orwell'in distopik romanı, totaliter bir devletin halkı nasıl kontrol ettiği ve bireysel özgürlüklerin yok edilmesinin sonuçlarını konu alır. ",
+          "category": "Dystopia"
+        },
+        {
+          "id": 4,
+          "title": "Kürk Mantolu Madonna",
+          "author": "Sabahattin Ali",
+          "image": "https://picsum.photos/904",
+          "year": 1943,
+          "page": 224,
+          "description": "Sabahattin Ali'nin bu eseri, bir aşk hikayesi üzerinden insan ruhunun derinliklerine inmeye çalışır.",
+          "category": "Roman"
+        },
+        {
+          "id": 5,
+          "title": "Dönüşüm",
+          "author": "Franz Kafka",
+          "image": "https://picsum.photos/905",
+          "year": 1915,
+          "page": 128,
+          "description": "Kafka'nın en bilinen eserlerinden biri olan 'Dönüşüm', bir sabah uyandığında kendisini dev bir böceğe dönüşmüş olarak bulan Gregor Samsa'nın trajik hikayesini anlatır.",
+          "category": "Edebiyat"
+        },
+        {
+          "id": 6,
+          "title": "Yüzyıllık Yalnızlık",
+          "author": "Gabriel García Márquez",
+          "image": "https://picsum.photos/906",
+          "year": 1967,
+          "page": 417,
+          "description": "Gabriel García Márquez'in başyapıtı olan bu roman, Latin Amerika'nın büyülü gerçekçilik akımının en güçlü örneklerinden biridir.",
+          "category": "Roman"
+        },
+        {
+          "id": 7,
+          "title": "Savaş ve Barış",
+          "author": "Lev Tolstoy",
+          "image": "https://picsum.photos/907",
+          "year": 1869,
+          "page": 1225,
+          "description": "Tolstoy'un epik romanı, Napolyon'un Rusya'ya saldırdığı dönemi ve bu dönemin Rus aristokrasisi üzerindeki etkilerini konu alır.",
+          "category": "Tarih, Epik"
+        },
+        {
+          "id": 8,
+          "title": "Küçük Prens",
+          "author": "Antoine de Saint-Exupéry",
+          "image": "https://picsum.photos/908",
+          "year": 1943,
+          "page": 96,
+          "description": "Küçük Prens, yetişkinlerin dünyasını çocuk bakış açısıyla ele alan ve insanın yaşamına dair derin sorular sormaya teşvik eden bir hikayedir.",
+          "category": "Çocuk"
+        },
+        {
+          "id": 9,
+          "title": "Zorba",
+          "author": "Nikos Kazancakis",
+          "image": "https://picsum.photos/909",
+          "year": 1946,
+          "page": 368,
+          "description": "Nikos Kazancakis'in bu romanı, Zorba adındaki özgür ruhlu bir adamın hayatını anlatırken, insanın içsel özgürlüğünü, sevgiye olan yaklaşımını ve yaşamın anlamını keşfetmeye çalışan bir diğer karakteri de konu alır.",
+          "category": "Roman"
+        }
+      ]
+      
+}
